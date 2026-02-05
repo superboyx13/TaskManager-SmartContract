@@ -19,7 +19,7 @@ A decentralized task management system built on Ethereum.
 
 ## Deployed Contract
 
-[View on Etherscan](https://sepolia.etherscan.io/address/0x729e71C8A692066De5A3eb8587Bcdfd4c742188c)
+[View on Etherscan](https://sepolia.etherscan.io/address/0xF764a40d2872Af0D84b012246D00214d19F72C18)
 
 ## Running Tests
 ```bash
