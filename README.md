@@ -1,4 +1,4 @@
-# TodoList Smart Contract
+# TaskManager Smart Contract
 
 A decentralized task management system built on Ethereum.
 
@@ -19,7 +19,7 @@ A decentralized task management system built on Ethereum.
 
 ## Deployed Contract
 
-[View on Etherscan](https://sepolia.etherscan.io/address/YOUR_CONTRACT_ADDRESS)
+[View on Etherscan](https://sepolia.etherscan.io/address/0x729e71C8A692066De5A3eb8587Bcdfd4c742188c)
 
 ## Running Tests
 ```bash
@@ -28,7 +28,7 @@ forge test
 
 ## Deployment
 ```bash
-forge create --rpc-url $SEPOLIA_RPC_URL --private-key $PRIVATE_KEY src/TodoList.sol:TodoList --broadcast
+forge create --rpc-url $SEPOLIA_RPC_URL --private-key $PRIVATE_KEY src/TaskManager.sol:TaskManager --broadcast
 ```
 
 ## Coming Soon
